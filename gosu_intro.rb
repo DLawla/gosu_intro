@@ -18,7 +18,7 @@ class GosuIntro < Gosu::Window
     # Player variables
     @player_image = Gosu::Image.new("media/player.png")
     @player_x = 10
-    @player_speed = 3
+    @player_speed = 4
 
     # Goal variables
     @goal_image = Gosu::Image.new("media/goal.png")
