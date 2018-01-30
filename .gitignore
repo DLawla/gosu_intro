@@ -1,0 +1,5 @@
+# RubyMine files
+.idea/*
+
+# Byebug
+.byebug_history
